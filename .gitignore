@@ -1,0 +1,13 @@
+# Raw source materials (not part of the published site)
+*.pdf
+*.pptx
+~$*
+
+# Duplicate/unprocessed top-level images (clean copies live in assets/)
+/*.png
+/*.jpg
+/*.jpeg
+
+# Editor / OS
+.DS_Store
+Thumbs.db
